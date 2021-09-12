@@ -14,7 +14,7 @@ body {
 }
 nav ul, footer ul {
     font-family: 'living_hellregular', 'Open Sans';
-    padding: 0px;
+    padding: 10px;
     list-style: none;
     font-weight: normal;
 }
@@ -29,6 +29,8 @@ a {
 a:hover {
     text-decoration: underline;
 }
+
+
 h1 {
     font-size: 3em;
     font-family: 'living_hellregular';
