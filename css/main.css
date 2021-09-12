@@ -2,6 +2,7 @@
     font-family: 'living_hellregular';
     src: url('living_hell-webfont.woff2') format('woff2'),
          url('living_hell-webfont.woff') format('woff');
+	 url('living_hell-webfont.tff') format('tff');
     font-weight: normal;
     font-style: normal;
 
