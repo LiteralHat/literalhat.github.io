@@ -3,7 +3,7 @@
     src: url('LivingHell.woff2') format('woff2'),
          url('LivingHell.woff') format('woff');
 	 url('living_hell-webfont.tff') format('tff');
-    font-weight: 100;
+    font-weight: normal;
     font-style: normal;
 
 body {
