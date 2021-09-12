@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'living_hellregular';
-    src: url('https://literalhat.com/css/fonts/living_hell-webfont.woff2') format('woff2'),
-         url('https://literalhat.com/css/fonts/living_hell-webfont.woff') format('woff');
+    src: url('fonts/living_hell-webfont.woff2') format('woff2'),
+         url('fonts/living_hell-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
