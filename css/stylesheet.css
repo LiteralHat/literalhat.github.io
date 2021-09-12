@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'living_hellregular';
+    src: url('LivingHell.woff2') format('woff2'),
+         url('LivingHell.woff') format('woff');
+	 url('living_hell-webfont.tff') format('tff');
+    font-weight: normal;
+    font-style: normal;
+} 
