@@ -1,4 +1,4 @@
-#LiteralHat
+# LiteralHat
 ## Welcome to the gayest site in existence. 
 
 I am still building this website. There will probably be a shitload of issues, so piss off in the meanwhile.
