@@ -6,6 +6,9 @@
     font-weight: 100;
     font-style: normal;
 
+body {
+    margin: 60px auto;
+    width: 70%;
 }
 
 nav ul, footer ul {
