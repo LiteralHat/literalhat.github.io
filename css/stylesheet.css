@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Living Hell';
+    src: url('LivingHell.woff2') format('woff2'),
+        url('LivingHell.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
