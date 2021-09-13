@@ -6,10 +6,12 @@
     font-weight: normal;
     font-style: normal;
 }
+head {
+    background-color: black;
+}
 body {
     margin: 60px auto;
     width: 70%;
-    background-color: black;
 }
 
 h1 {
