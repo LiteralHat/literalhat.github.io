@@ -17,8 +17,15 @@ h1 {
     color: white;
     font-weight: normal;
 }
-p {
+
+h2 {
     font-family: 'living_hellregular';	
+    font-size: 3em;
+    line-height: 1.4em;
+    color: white;
+}
+p {
+    font-family: 'Open Sans';	
     font-size: 1.5em;
     line-height: 1.4em;
     color: white;
@@ -29,3 +36,5 @@ p {
   margin-right: auto;
   width: 50%;
 }
+
+
