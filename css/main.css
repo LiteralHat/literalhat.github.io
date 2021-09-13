@@ -9,16 +9,15 @@
 body {
     margin: 60px auto;
     width: 70%;
-background-color: black;
-	
+    background-color: black;
 }
 
 h1 {
     font-size: 5em;
     font-family: 'living_hellregular';
     line-height: 1.4em;
-color: white;
-font-weight: normal
+    color: white;
+    font-weight: normal
 }
 p {
     font-family: 'living_hellregular';	
