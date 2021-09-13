@@ -15,9 +15,7 @@
 		body {
 		  background-color: black;
 		}
-		</style>
-    
-    /* Header style */
+		    /* Header style */
 .header {
   padding: 10px 16px;
   background: #555;
@@ -41,7 +39,7 @@
   padding-top: 102px;
 }
      
-    
+		</style>
 	</head>
 	<body>
      		{{ content }}
