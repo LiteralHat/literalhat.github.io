@@ -23,6 +23,9 @@ p {
     line-height: 1.4em;
     color: white;
 }
-.centerimage {
-  text-align: center;
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
