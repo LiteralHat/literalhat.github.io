@@ -14,7 +14,7 @@ body {
     width: 70%;
 }
 h1 {
-    font-size: 5em;
+    font-size: 7em;
     font-family: 'living_hellregular';
     line-height: 1.4em;
     color: white;
@@ -23,17 +23,26 @@ h1 {
 
 h2 {
     font-family: 'living_hellregular';	
-    font-size: 3em;
+    font-size: 10em;
     line-height: 1.4em;
     color: white;
     font-weight: normal;
 }
+
+h3 {
+    font-size: 5em;
+    font-family: 'living_hellregular';
+    line-height: 1.4em;
+    color: white;
+    font-weight: normal;
+}
+
 p {
     font-family: 'Oswald', sans-serif;
     color: white;
     font-weight: 400;
     line-height: 1.4em;
-    font-size: 2em;
+    font-size: 4em;
 }
 .center {
   display: block;
