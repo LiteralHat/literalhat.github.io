@@ -12,12 +12,13 @@ body {
 }
 
 h1 {
-    font-size: 3em;
+    font-size: 5em;
     font-family: 'living_hellregular';
+    line-height: 1.4em;
 }
 p {
     font-family: 'living_hellregular';	
     font-size: 1.5em;
     line-height: 1.4em;
-    color: #333;
+    color: ##FF0000;
 }
