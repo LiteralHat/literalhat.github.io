@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: defaultheader
 title: LiteralHome
 ---
 <div class="header" id="myHeader">
@@ -10,19 +10,5 @@ title: LiteralHome
 <h2 align="center">Where would you like to go?</h2>
 
 
-<script>
-window.onscroll = function() {myFunction()};
-
-var header = document.getElementById("myHeader");
-var sticky = header.offsetTop;
-
-function myFunction() {
-  if (window.pageYOffset > sticky) {
-    header.classList.add("sticky");
-  } else {
-    header.classList.remove("sticky");
-  }
-}
-</script>
 
 
