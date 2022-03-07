@@ -1,0 +1,16 @@
+<div id="myShop">
+    <a href="https://literalhat.myspreadshop.com">literalhat</a>
+</div>
+
+<script>
+    var spread_shop_config = {
+        shopName: 'literalhat',
+        locale: 'us_US',
+        prefix: 'https://literalhat.myspreadshop.com',
+        baseId: 'myShop'
+    };
+</script>
+
+<script type="text/javascript"
+        src="https://literalhat.myspreadshop.com/shopfiles/shopclient/shopclient.nocache.js">
+</script>
